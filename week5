@@ -1,3 +1,5 @@
+Quicksort
+
 
 In def quicksort(a):
       if len(a)<2:         #若數列中數字長度不到2個則不用跑下面程式碼
