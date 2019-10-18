@@ -2,12 +2,12 @@
 > Welcome to My Learning Note 
 
 # 每週上課內容
-* week1:Github
-* week2:Linked List
-* week3:Stack + Queue
-* week4:Insertion sort
-* week5:Quick sort
-* week6:
+* week1：Github
+* week2：Linked List
+* week3：Stack + Queue
+* week4：Insertion sort
+* week5：Quick sort
+* week6：
 
 # About me
 > I’m 巨資三Ａ鄭巽臨 06170137
