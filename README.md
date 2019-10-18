@@ -7,7 +7,7 @@
 * week3：Stack + Queue
 * week4：Insertion sort
 * week5：Quick sort
-* week6：
+* week6：H
 
 # About me
 > I’m 巨資三Ａ鄭巽臨 06170137
