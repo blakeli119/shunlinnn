@@ -8,6 +8,7 @@ class Solution(object):
         for i in range(n-1, 0, -1): 
             nums[i], nums[0] = nums[0], nums[i]   
             self.heapify(nums, i, 0) 
+        return nums
     def heapify(self,nums, n, i): 
         largest = i  
         l = 2 * i + 1     
