@@ -1,15 +1,15 @@
-class solution(object):
-    def mergesort(self,nums): 
+class Solution(object):
+    def merge_sort(self,nums): 
         final= []
         if len(nums) < 2:
             return nums 
     
         else:
             mid = int(len(nums)/2)
-            a = mergesort(nums[:mid]) 
-            b = mergesort(nums[mid:]) 
-        self.mergesort(a)
-        self.mergesort(b)
+            a = merge_sort(nums[:mid]) 
+            b = merge_sort(nums[mid:]) 
+        self.merge_sort(a)
+        self.merge_sort(b)
         while (len(a) > 0) or (len(b) > 0):
             if len(a) > 0 and len(b) > 0:
                 if a[0] > b[0]:
