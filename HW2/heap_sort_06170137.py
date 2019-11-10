@@ -1,5 +1,5 @@
-class solution(object):
-    def heapSort(self,nums):
+class Solution(object):
+    def heap_sort(self,nums):
         n = len(nums)
   
         for i in range(n, -1, -1):
