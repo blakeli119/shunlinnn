@@ -35,6 +35,7 @@ class Solution(object):
         :type target: int
         :rtype: TreeNode(the root of new completed binary search tree) (cannot search())
         """
+        pass
     def search(self, root, target):
         """
         :type root: TreeNode
@@ -57,3 +58,4 @@ class Solution(object):
         :type new_val: int
         :rtype:TreeNode(the root of new completed binary search tree) (cannot search())
         """
+        pass
