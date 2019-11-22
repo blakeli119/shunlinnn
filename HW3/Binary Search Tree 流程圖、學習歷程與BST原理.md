@@ -13,8 +13,6 @@ http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-lia
 https://www.geeksforgeeks.org/python-program-for-binary-insertion-sort/
 # Search
 ### 流程圖
-#### 若我要刪除tree中的3，則4、5要往上移，必須讓tree保持著，小的往左、大的往右之規則。
-![](/image/A4053156-5673-443F-9FE8-005D2D78F02D.jpg)
 ![](/image/S__81182765.jpg) 
 ### 學習歷程
 #### 此處要return root 而不是return root.val，因為是要回傳位置，而不是數值。
@@ -26,6 +24,8 @@ https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
 https://www.geeksforgeeks.org/python-program-for-binary-search/
 # delete
 ### 流程圖
+#### 若我要刪除tree中的3，則4、5要往上移，必須讓tree保持著，小的往左、大的往右之規則。
+![](/image/A4053156-5673-443F-9FE8-005D2D78F02D.jpg)
 ### 學習歷程
 ### 參考資料
 # modify
