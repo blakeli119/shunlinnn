@@ -3,3 +3,7 @@
 ## 學習歷程
 ## BFS和DFS的原理與比較
 ## 參考資料
+#### https://alrightchiu.github.io/SecondRound/flow-networksmaximum-flow-ford-fulkerson-algorithm.html
+#### https://www.coursehero.com/file/40393550/bfspy/
+#### https://kopu.chat/2017/09/22/實作graph與dfs、bfs走訪/
+#### https://blog.csdn.net/u011437229/article/details/53188837
