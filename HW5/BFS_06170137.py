@@ -8,10 +8,6 @@ class Graph:
         self.graph[u].append(v) 
   
     def BFS(self, s):
-        """
-        :type s: int
-        :rtype: list
-        """
         queue = [s]
         answer= []
         
@@ -24,10 +20,6 @@ class Graph:
         return answer
 
     def DFS(self, s):
-        """
-        :type s: int
-        :rtype: list
-        """
         stack = [s]
         answer = []
         
