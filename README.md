@@ -3,7 +3,7 @@
 
 # 每週上課內容
 # week1
-### 1、Github
+＊ Github
 # week2
 ### 1、Linked List
 ### （LeetCode 155. Min Stack）
