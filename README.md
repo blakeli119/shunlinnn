@@ -6,11 +6,11 @@
 * Github
 ## week2
 * 1、Linked List
-* （LeetCode 155. Min Stack）
-* （LeetCode 232. Implement Queue using Stacks）
 ## week3
 * Stack
 * Queue
+* （LeetCode 155. Min Stack）
+* （LeetCode 232. Implement Queue using Stacks）
 ## week4
 * Insertion sort
 * (LeetCode 147. Insertion Sort List)
