@@ -13,6 +13,7 @@
 * Queue
 ## week4
 * Insertion sort
+* (LeetCode 147. Insertion Sort List)
 ## week5
 * Quick sort 
 * HW1：Quick sort
