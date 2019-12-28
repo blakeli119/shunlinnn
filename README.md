@@ -2,7 +2,7 @@
 > Welcome to My Learning Note 
 
 # 每週上課內容
-## week1
+# week1
 ### Github
 ## week2
 ### Linked List
