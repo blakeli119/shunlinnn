@@ -4,6 +4,8 @@
 # 每週上課內容
 * week1：Github
 * week2：Linked List
+       （LeetCode 155. Min Stack）
+       （LeetCode 232. Implement Queue using Stacks）
 * week3：Stack + Queue
 * week4：Insertion sort
 * week5：Quick sort (HW1:Quick sort)
