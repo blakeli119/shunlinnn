@@ -1,7 +1,35 @@
-
+# Stack
+## Stack功能
+### 1、Push：把資料放入到stack中。
+### 2、Pop：把最上面的資料從stack中移除。
+### 3、Top：回傳最上面的資料，且不會影響到資料結構本身。
+### 4、IsEmpty：確認Stack裡是否有資料，且不會影響資料結構本身。
+### 5、getSize：回傳Stack裡的資料個數，且不會影響資料結構本身。
+## Stack應用
+### 1、編輯器(如word等)中的undo。
+### 2、網頁瀏覽器的回到前一頁功能。
+### 3、遞迴形式的演算法，都可用Stack改寫(DFS)。
+### 4、於記憶體管理中的Call Stack。
+### 5、編譯器中的Parsing。
+# Queue
+## Queue功能
+### 1、Push：把資料從Queue的後面放進Queue，並變成新的back。
+### 2、Pop：把front所指向的資料從Queue中移除，並更新front。
+### 3、getFront：回傳front所指向的資料。
+### 4、getBack：回傳back所指向的資料。
+### 5、IsEmpty：確認Queue裡是否有資料。
+### 6、getSize：回傳Queue裡的資料個數。
+## Queue應用
+### 1、演算法BFS會運用到Queue。
+### 2、可以array或linled list 實作。
 
 # 完成Leetcode 練習
 ### * LeetCode 155. Min Stack
 ![](/image/螢幕截圖%202019-12-28%2013.56.21.png)
 ### * LeetCode 232. Implement Queue using Stacks
 ![](/image/螢幕截圖%202019-12-28%2014.11.54.png)
+# 參考資料
+#### https://www.geeksforgeeks.org/iterative-depth-first-traversal/
+#### https://www.tutorialspoint.com/compiler_design/compiler_design_top_down_parser.htm
+#### https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
+#### https://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html
