@@ -1,4 +1,4 @@
-# Quick Sort
+# Quick Sort（快速排序法）
 ## 時間複雜度
 ### worst case：N2
 ### best case：Nlog N
