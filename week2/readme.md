@@ -9,3 +9,4 @@
 ### 4、Block Chain 的應用。
 ### 5、能夠查詢走訪所有node。
 
+# Leetcode 練習
