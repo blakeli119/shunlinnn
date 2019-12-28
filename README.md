@@ -5,7 +5,7 @@
 ## week1
 * Github
 ## week2
-* 1、Linked List
+* Linked List
 ## week3
 * Stack
 * Queue
