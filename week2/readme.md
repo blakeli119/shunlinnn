@@ -9,5 +9,6 @@
 ### 4、Block Chain 的應用。
 ### 5、能夠查詢走訪所有node。
 
-## 完成LeetCode 707. Design Linked List
+## 完成LeetCode練習
+### ＊ LeetCode 707. Design Linked List
 ![](/image/螢幕截圖%202019-12-28%2014.05.17.png)
