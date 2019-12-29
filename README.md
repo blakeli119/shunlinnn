@@ -6,7 +6,7 @@
 * Github
 ## week2
 * Linked List
-* (LeetCode 707. Design Linked List)
+*  (LeetCode 707. Design Linked List)
 ## week3
 * Stack
 * Queue
