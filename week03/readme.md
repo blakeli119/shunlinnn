@@ -22,12 +22,6 @@
 ## Queue應用
 ### 1、演算法BFS會運用到Queue。
 ### 2、可以array或linled list 實作。
-
-# 完成Leetcode 練習
-### * LeetCode 155. Min Stack
-![](/image/螢幕截圖%202019-12-28%2013.56.21.png)
-### * LeetCode 232. Implement Queue using Stacks
-![](/image/螢幕截圖%202019-12-28%2014.11.54.png)
 # 參考資料
 #### https://www.geeksforgeeks.org/iterative-depth-first-traversal/
 #### https://www.tutorialspoint.com/compiler_design/compiler_design_top_down_parser.htm
