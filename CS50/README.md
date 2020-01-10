@@ -1,1 +1,24 @@
+# CS50
+### 用全英文學程式，要理解成還要理解英文，真的很困擾哈哈哈哈哈哈。
+# 課程整理
 
+## week3
+### [Monday](https://www.youtube.com/watch?v=xqhcVALTw54)
+### [Wednesday](https://www.youtube.com/watch?v=YxgI7ll4Xtg)
+### [筆記]
+## week4
+### [Monday](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
+### [Wednesday](https://www.youtube.com/watch?v=lw1U7CvmjoU)
+### [筆記]
+## week5
+### [Monday](http://www.youtube.com/watch?v=IEuvKVjw2oM)
+### [Wednesday](http://www.youtube.com/watch?v=atBMLJdSKBo)
+### [筆記]
+## week7
+### [Monday](http://www.youtube.com/watch?v=RUAsmwYC2mc)
+### [Wednesday](http://www.youtube.com/watch?v=QWnZpgZKOoc)
+### [筆記]
+## week8
+### [Monday](https://www.youtube.com/watch?v=9qvt6MwBKZQ)
+### [Wednesday](http://www.youtube.com/watch?v=ihmHDZKOkA8)
+### [筆記]
