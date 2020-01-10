@@ -12,9 +12,6 @@
 ### worst case：N2
 ## 空間複雜度：θ(1)
 ## 穩定性：穩定
-# 完成leetcode練習
-## * LeetCode 147. Insertion Sort List
-![](/image/螢幕截圖%202019-12-28%2014.01.47.png)
 
 # 參考資料
 #### https://algorithm.yuanbin.me/zh-tw/basics_sorting/insertion_sort.html
