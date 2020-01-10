@@ -5,7 +5,7 @@
 ## week3
 ### [Monday](https://www.youtube.com/watch?v=xqhcVALTw54)
 ### [Wednesday](https://www.youtube.com/watch?v=YxgI7ll4Xtg)
-### [筆記]
+### [筆記](https://github.com/shunlinnn/shunlinnn/blob/master/CS50/week3.md)
 ## week4
 ### [Monday](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
 ### [Wednesday](https://www.youtube.com/watch?v=lw1U7CvmjoU)
