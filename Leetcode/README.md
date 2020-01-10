@@ -1,9 +1,9 @@
 # Leetcode
 ## 題目統整
-### 912. Sort an Array
-### 147. Insertion Sort List
-### 155. Min Stack
-### 232. Implement Queue using Stacks
+### ＊912. Sort an Array
+### ＊147. Insertion Sort List
+### ＊155. Min Stack
+### ＊232. Implement Queue using Stacks
 ### 707. Design Linked List
 
 ## 912. Sort an Array
