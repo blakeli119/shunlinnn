@@ -9,7 +9,7 @@
 ## week4
 ### [Monday](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
 ### [Wednesday](https://www.youtube.com/watch?v=lw1U7CvmjoU)
-### [筆記]
+### [筆記](https://github.com/shunlinnn/shunlinnn/blob/master/CS50/week4.md)
 ## week5
 ### [Monday](http://www.youtube.com/watch?v=IEuvKVjw2oM)
 ### [Wednesday](http://www.youtube.com/watch?v=atBMLJdSKBo)
