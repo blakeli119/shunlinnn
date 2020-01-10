@@ -21,4 +21,4 @@
 ## week8
 ### [Monday](https://www.youtube.com/watch?v=9qvt6MwBKZQ)
 ### [Wednesday](http://www.youtube.com/watch?v=ihmHDZKOkA8)
-### [筆記]
+### [筆記](https://github.com/shunlinnn/shunlinnn/blob/master/CS50/week8.md)
