@@ -17,7 +17,7 @@
 ## week7
 ### [Monday](http://www.youtube.com/watch?v=RUAsmwYC2mc)
 ### [Wednesday](http://www.youtube.com/watch?v=QWnZpgZKOoc)
-### [筆記]
+### [筆記](https://github.com/shunlinnn/shunlinnn/blob/master/CS50/week7.md)
 ## week8
 ### [Monday](https://www.youtube.com/watch?v=9qvt6MwBKZQ)
 ### [Wednesday](http://www.youtube.com/watch?v=ihmHDZKOkA8)
